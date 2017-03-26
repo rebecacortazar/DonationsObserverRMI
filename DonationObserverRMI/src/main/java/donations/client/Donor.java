@@ -16,10 +16,9 @@ import donations.server.ICollector;
 import es.deusto.computing.sd.util.gui.WindowManager;
 
 public class Donor implements ActionListener {
-<<<<<<< HEAD
+
 	//Minimun comment in Donor
-=======
->>>>>>> branch 'master' of https://github.com/rebecacortazar/DonationsObserverRMI.git
+
 	private JFrame frame;
 	private JButton buttonEnd;
 	private JButton buttonDonate;
