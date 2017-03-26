@@ -18,7 +18,11 @@ import donations.server.*;
 import donations.client.Donor;
 
 /**
+<<<<<<< HEAD
  * Unit test for simple App.
+=======
+ * Unit test for simple App. 
+>>>>>>> branch 'master' of https://github.com/rebecacortazar/DonationsObserverRMI.git
  */
 public class RMITest {
 	// Properties are hard-coded because we want the test to be executed without external interaction
