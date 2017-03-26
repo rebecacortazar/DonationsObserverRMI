@@ -16,6 +16,7 @@ import donations.server.ICollector;
 import es.deusto.computing.sd.util.gui.WindowManager;
 
 public class Donor implements ActionListener {
+	//Minimun comment in Donor
 	private JFrame frame;
 	private JButton buttonEnd;
 	private JButton buttonDonate;
